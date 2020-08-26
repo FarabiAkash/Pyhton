@@ -6,7 +6,7 @@ def pattern (str_1, str_2) :
     
     for i in range(0,5) :
         
-        patter_char=patter_char + str_1+"|"+str_2 + str_1+"-"+str_2
+        patter_char=patter_char + str_1+ "|" + str_2 + str_1 + "-" + str_2
     
     return patter_char
     # todo
